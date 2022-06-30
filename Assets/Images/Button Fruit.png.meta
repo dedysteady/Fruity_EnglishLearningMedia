@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: b713938c88903a14fac1197e3f4684fa
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Button Fruit_0
+    21300002: Button Fruit_1
+    21300004: Button Fruit_2
+    21300006: Button Fruit_3
+    21300008: Button Fruit_4
+    21300010: Button Fruit_5
+    21300012: Button Fruit_6
+    21300014: Button Fruit_7
+    21300016: Button Fruit_8
+    21300018: Button Fruit_9
+    21300020: Button Fruit_10
+    21300022: Button Fruit_11
+    21300024: Button Fruit_12
+    21300026: Button Fruit_13
+    21300028: Button Fruit_14
+    21300030: Button Fruit_15
+    21300032: Button Fruit_16
+    21300034: Button Fruit_17
+    21300036: Button Fruit_18
+    21300038: Button Fruit_19
+    21300040: Button Fruit_20
+    21300042: Button Fruit_21
+    21300044: Button Fruit_22
+    21300046: Button Fruit_23
+    21300048: Button Fruit_24
+    21300050: Button Fruit_25
+    21300052: Button Fruit_26
+    21300054: Button Fruit_27
+    21300056: Button Fruit_28
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button Fruit_0
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3119
+        width: 418
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_1
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 3119
+        width: 420
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_2
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 3119
+        width: 419
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_3
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 3119
+        width: 420
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_4
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 3119
+        width: 419
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_5
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 3119
+        width: 420
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_6
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 3119
+        width: 420
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_7
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 3121
+        width: 349
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_8
+      rect:
+        serializedVersion: 2
+        x: 4279
+        y: 3121
+        width: 351
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2416
+        width: 1462
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_10
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1757
+        width: 1057
+        height: 1208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_11
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 2416
+        width: 1462
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1840
+        width: 1459
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_13
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 1840
+        width: 1460
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1387
+        width: 2673
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_15
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 1169
+        width: 430
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_16
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 1159
+        width: 445
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_17
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 1166
+        width: 505
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_18
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1150
+        width: 2673
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 587
+        width: 832
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_20
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 587
+        width: 832
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_21
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 587
+        width: 832
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_22
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 587
+        width: 832
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_23
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 587
+        width: 830
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 219
+        width: 832
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_25
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 219
+        width: 832
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_26
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 219
+        width: 832
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_27
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 219
+        width: 832
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Fruit_28
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 219
+        width: 832
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
