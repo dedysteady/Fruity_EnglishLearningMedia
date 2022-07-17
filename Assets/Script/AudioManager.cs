@@ -36,7 +36,7 @@ public class AudioManager : MonoBehaviour
 	{
 		Scene currentScene = SceneManager.GetActiveScene();
 
-		if (currentScene.name == "Quiz")
+		if (currentScene.name == "Quiz" || currentScene.name == "Materi")
 		{
 			Destroy(gameObject);
 		}

@@ -18,5 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Materi.unity
     guid: 8baec7553886ae146b3ad2803ea53e62
   - enabled: 1
-    path: Assets/Scenes/Balon.unity
-    guid: 13399c6d58851a04c81bdbc2d535ec94
+    path: Assets/Scenes/Select Quiz.unity
+    guid: 712551280a5f2964ba6cc3e4a5b2fd41
+  - enabled: 1
+    path: Assets/Scenes/Essay.unity
+    guid: 1881faf1ebcdfc54fb998ad7720ceeaf
+  m_configObjects: {}

@@ -5,6 +5,8 @@ using UnityEngine.UI;
 
 public class Swipe : MonoBehaviour
 {
+    public AudioSource adSource;
+    public AudioClip[] adClips;
     public GameObject scrollbar;
     float scroll_pos = 0;
     float [] pos;
@@ -12,7 +14,7 @@ public class Swipe : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        PlayAudio();
     }
 
     public void next()
@@ -21,6 +23,7 @@ public class Swipe : MonoBehaviour
         {
             posisi += 1;
             scroll_pos = pos [posisi];
+            PlayAudio();
         }
     }
 
@@ -30,7 +33,14 @@ public class Swipe : MonoBehaviour
         {
             posisi -= 1;
             scroll_pos = pos [posisi];
+            PlayAudio();
         }
+    }
+
+    public void PlayAudio()
+    {
+        adSource.clip = adClips[posisi];
+        adSource.Play();
     }
 
     // Update is called once per frame
