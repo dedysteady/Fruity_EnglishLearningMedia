@@ -6,4 +6,4 @@
 ![Forks](https://img.shields.io/github/forks/dedysteady/Fruity_EnglishLearningMedia)
 ![Stars](https://img.shields.io/github/stars/dedysteady/Fruity_EnglishLearningMedia)
 
-On Progress..Stay tune!!
+Finished. You can download on Releases --> https://github.com/dedysteady/Fruity_EnglishLearningMedia/releases/tag/apk.2
